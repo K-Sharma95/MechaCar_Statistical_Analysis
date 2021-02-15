@@ -27,7 +27,7 @@ exceeds the recommended variance.
 
 ## T-Tests on Suspension Coils
 
-The p  value of the [t-test](t_test_PSI.png) I conducted is 0.06 and is therefore greater than 0.05. Resultingly the values of the the PSI columns are not significantly different from 1500.
+The p  value of the [t-test](t-test_PSI.png) I conducted is 0.06 and is therefore greater than 0.05. Resultingly the values of the the PSI columns are not significantly different from 1500.
 In other words there is no significant difference. As we can observe from them lot specific tests, [Lot 1](Lot1_t_test.png) has a t value of zero and p value of 1.
 [Lot 2](Lot2_t_test.png) has a t value of 0.51 and a p value of 0.6. Finally [Lot 3](Lot3_t_test.png) has a t value of -2.1 and a p value of .04. This information tells us... 
 

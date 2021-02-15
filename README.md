@@ -6,13 +6,16 @@
 
 ## Linear Regression to Predict MPG
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+The variables that produced a non-random amount of variance are indicated by asteriks in this [regression analysis](regression_summary.png). These variables of interest are
+vehicle_length and ground_clearance.
 
+- Is the slope of the linear model considered to be zero? Why or why not?
+The slope of this linear model can be determined from the following outputs.
 
-
-
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+My r value is 0.6825 and my p value is 5.35e-11 from this linear regression analysis.This R value is high (above 0.5 or 50%) meaning that roughly 70% mpg predictions 
+will be correct. I consider this an effecive prediction. 
 
 
 ## Summary Statistics on Suspension Coils

@@ -33,3 +33,5 @@ In other words there is no significant difference. As we can observe from them l
 
 
 ## Study Design: MechaCar vs Competition
+In order to best compare this study on the Mecha car to the competitive auto motive market, data on an model must be compiled using the same information. Once compiled 
+the best comparison method
